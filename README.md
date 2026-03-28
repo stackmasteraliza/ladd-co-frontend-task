@@ -2,7 +2,7 @@
 
 Pixel-accurate implementation of the Ladd & Co. home page, built from the provided Figma design.
 
-**Live Preview:** [View on Vercel](#) <!-- Replace with your deployed URL -->
+**Live Preview:** [ladd-co-frontend-task.vercel.app](https://ladd-co-frontend-task.vercel.app)
 
 ---
 
